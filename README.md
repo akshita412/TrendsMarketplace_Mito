@@ -1,5 +1,5 @@
 # Trends Marketplace
-## Topic: Excel Operations in Jupyter Notebook using Mito and AutoViz libraries
+## Topic: Excel Operations in Jupyter Notebook using Mito
 
 Mito is a spreadsheet that helps you complete your Python analyses 10x faster. You edit the Mitosheet, and it generates Python code for you. For more information click the
 [Link](https://trymito.io/about)
